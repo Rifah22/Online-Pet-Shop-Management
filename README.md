@@ -122,6 +122,7 @@ The project was planned across **6 sprints** using Jira Scrum. Below is the full
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rifah22)
 
 **Md Samin Yeasar** — User Management, Order Management & Customer Support sprints
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-samin-yeasar-4986ab290/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MdSaminYeasar)
 
 ---
